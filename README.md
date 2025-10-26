@@ -17,39 +17,53 @@
 - 👨‍💻 Head of Technical Development – **Coding Brigade BVRIT**  
 - 📚 Content Creator – **Data Science Visionary Hub, BVRIT**  
 - 🌱 Ex **IIT Bombay E-CELL Campus Representative**  
-- 💼 Software Developer Intern –**Optum(UHG)**, **QualiZeal**
+- 💼 Software Developer Intern – **Optum (UHG)**, **QualiZeal**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages  
+### 💡 Languages
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-### Frontend  
+### 🎨 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+  <img src="https://vitejs.dev/logo.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
 </p>
 
-### Backend & Tools  
+### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-black.svg?logo=express&logoColor=white" alt="Express.js" width="80" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Express.js-black.svg?logo=express&logoColor=white" width="80" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
 </p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+</p>
+
+### 🧠 AI / Automation / Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+- **Technologies worked with:** RAG, LLMs, OpenRewrite, Web Scraping, REST APIs, Automation Scripting
 
 ---
 
@@ -68,35 +82,41 @@
 ## 📦 Notable Projects
 
 ### 🍽️ [Food Court BVRIT](https://github.com/ajay0120/Food-Court-BVRIT)
-A MERN stack-based full-stack application with:
-- Role-based login (Admin & Student)
-- Admin dashboard for menu & order management
-- MongoDB cart/order storage with JWT authentication
-- Forgot password with OTP flow
+A **MERN stack full-stack application** designed for BVRIT students and admin management.  
+**Key Features:**
+- Role-based authentication (Admin & Student) with JWT + OTP verification  
+- Admin panel for menu management and live order tracking (change status to *Delivered*)  
+- Cart and orders stored in MongoDB  
+- Integrated payment gateway and order confirmation flow  
+- Dynamic menu with category filters, search, and responsive UI  
+- Profile section with sidebar navigation (*Profile, Previous Orders, Logout*)  
+- Secure backend architecture with separate routes, controllers, and middleware  
 
 ### 👥 Human Resource Management System
-- Built using basic HTML,CSS,JS
-- Boosted HR task efficiency by 25%
+- Built using basic HTML, CSS, and JS  
+- Increased HR task efficiency by 25%
 
 ### 🧾 Customer Billing System
-- Terminal-based C project for itemized billing
+- Terminal-based C project for itemized billing  
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in CSE** @ BVRIT | CGPA: 9.08/10  
+- **B.Tech in CSE** @ BVRIT | CGPA: **9.10 / 10**  
 - **Class XII** – Narayana Junior College | 97.3%  
 - **Class X** – Narayana Olympiad School | CGPA: 10/10
 
 ---
 
-## 📚 Certifications
+## 📬 Contact Me
 
-- NPTEL: *The Joy of Computing Using Python*  
-- HackerRank: *Problem Solving (Basic)*  
-- LinkedIn Learning: *Learning C*, *Python Essential Training*
+📧 Email: [potugantiajaykumar@gmail.com](mailto:potugantiajaykumar@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/potuganti-ajay-kumar](https://linkedin.com/in/potuganti-ajay-kumar)
 
+---
+
+⭐ *Thanks for visiting my GitHub! If you like what I do, consider following or starring a project!* 
 ---
 
 ## 📬 Contact Me
