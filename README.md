@@ -17,7 +17,7 @@
 - 👨‍💻 Head of Technical Development – **Coding Brigade BVRIT**  
 - 📚 Content Creator – **Data Science Visionary Hub, BVRIT**  
 - 🌱 Ex **IIT Bombay E-CELL Campus Representative**  
-- 💼 Software Developer Intern – **QualiZeal**
+- 💼 Software Developer Intern –**Optum(UHG)**, **QualiZeal**
 
 ---
 
